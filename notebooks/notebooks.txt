@@ -1,0 +1,1 @@
+This is a folder with notebooks, they can be used to generate predictions out of the box
